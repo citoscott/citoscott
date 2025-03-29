@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/citoscott/VulnerabilityManagementProgram)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/citoscott/programmatic-vulnerability-remediations/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -21,9 +21,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/cito-scott-60b906123
 
 <!--
