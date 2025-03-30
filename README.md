@@ -4,6 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 - **[Setting up Splunk SIEM: Attacking and Remediating it](https://github.com/citoscott/Splunk-SIEM/blob/main/README.md)**
+- **[Setting up Active Directory and creating 1000 users with powershell](https://github.com/citoscott/Splunk-SIEM/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
