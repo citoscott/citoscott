@@ -1,4 +1,4 @@
-#  Hello I'm <www.linkedin.com/in/cito-scott-60b906123>Cito Scott</a> and welcome to my IT & Cybersecurity Project Portfolio 🔐
+#  Hello I'm <a href="www.linkedin.com/in/cito-scott-60b906123'>Cito Scott</a> and welcome to my IT & Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity.
 
