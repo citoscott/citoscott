@@ -12,10 +12,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/citoscott/VulnerabilityManagementProgram)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/citoscott/programmatic-vulnerability-remediations/blob/main/README.md)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting
 
-- **Unauthorized Tor Browser Usage: [Threat Hunting Scenario](https://github.com/citoscott/threat-hunting-scenario-tor)**, Incident Response 
-- **Data Exfiltration: [Threat Hunting Scenario](https://github.com/citoscott/Data-Exfiltration-Threat-Hunt)**, Incident Response 
+- **Unauthorized Tor Browser Usage: [Threat Hunting Scenario](https://github.com/citoscott/threat-hunting-scenario-tor)**
+- **Data Exfiltration: [Threat Hunting Scenario](https://github.com/citoscott/Data-Exfiltration-Threat-Hunt)**
+
+## 🚨 Incident Response
 
 <hr/>
 
