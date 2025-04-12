@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/citoscott/">Cito Scott</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <www.linkedin.com/in/cito-scott-60b906123">Cito Scott</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity.
 
