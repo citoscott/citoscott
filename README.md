@@ -14,8 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **Unauthorized Tor Browser Usage [Threat Hunting Scenario](https://github.com/citoscott/threat-hunting-scenario-tor)**, Incident Response 
-- **Data Exfiltration [Threat Hunting Scenario](https://github.com/citoscott/Data-Exfiltration-Threat-Hunt)**, Incident Response 
+- **Unauthorized Tor Browser Usage: [Threat Hunting Scenario](https://github.com/citoscott/threat-hunting-scenario-tor)**, Incident Response 
+- **Data Exfiltration: [Threat Hunting Scenario](https://github.com/citoscott/Data-Exfiltration-Threat-Hunt)**, Incident Response 
 
 <hr/>
 
